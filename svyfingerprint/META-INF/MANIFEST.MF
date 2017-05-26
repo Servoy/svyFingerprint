@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: svyfingerprint
+Bundle-Name: Fingerprint Service
+Bundle-Version: 1.0.0
+Package-Type: Web-Service
+
+Name: fingerprint/fingerprint.spec
+Web-Service: True
+
