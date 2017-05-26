@@ -5,8 +5,8 @@ angular.module('svyfingerprintFingerprint', ['servoy']).factory("svyfingerprintF
 			 * returns a callback with hash result representing device and components used.
 			 *	
 			 * example of an option object
-			 * options = {excludeUserAgent: true }
-			 * full list of options at : https://github.com/Valve/fingerprintjs2/wiki/List-of-options
+			 * options = {excludeUserAgent: false }
+			 * full list of options at https://github.com/Servoy/svyFingerprint
 			 * @param {Function} callback returns a callback function with two parameters (results and components)
 			 * @param {Object} [options] specify which components you want to include in fingerprint calculation.
 			 *
