@@ -16,7 +16,7 @@ http://valve.github.io/fingerprintjs2/
  */
 function callback(result, components) {
 	application.output('my unique hashId : ' + result);
-	application.output('component properties: ' + components);
+	application.output(components);
 }
 
 
