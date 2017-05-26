@@ -2,8 +2,6 @@
 
 Anonymously identify a browser depending on it's intalled plugins and options.  Uses the fingerprintjs2 library (https://github.com/Valve/fingerprintjs2)
 
-Note that this does NOT fully identify a running browser client 100%.  It should only be used as a supplementary option along side a list of other client related info such as IP, localstorage, etc..
-
 # Demo
 http://valve.github.io/fingerprintjs2/
 
