@@ -2,7 +2,7 @@
 
 Anonymously identify a browser depending on it's intalled plugins and options.  Uses the fingerprintjs2 library (https://github.com/Valve/fingerprintjs2)
 
-#demo
+# Demo
 http://valve.github.io/fingerprintjs2/
 
 # Example Usage
