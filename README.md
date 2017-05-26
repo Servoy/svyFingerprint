@@ -55,3 +55,7 @@ plugins.svyfingerprintFingerprint.getFingerPrint(callback,options);
 28. excludeTouchSupport - skip touch screen specific info fingerprinting
 29. excludePixelRatio - skip device pixel ratio
 30. excludeHardwareConcurrency - skip hardware concurrency
+
+License
+-------
+svyFingerprint is licensed under the [MIT license](https://opensource.org/licenses/MIT)
