@@ -2,7 +2,7 @@ angular.module('svyfingerprintFingerprint', ['servoy']).factory("svyfingerprintF
 		var scope = $services.getServiceScope('svyfingerprintFingerprint');
 		return {
 			/**
-			 * returns a callback with hash result representing device and components used.
+			 * returns a callback with unique hash representing browser and components object with result properties.
 			 *	
 			 * example of an option object
 			 * options = {excludeUserAgent: false }
