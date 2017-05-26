@@ -15,8 +15,8 @@ http://valve.github.io/fingerprintjs2/
  * @properties={typeid:24,uuid:"7C21BD16-D847-418C-90E2-9AE06F08C5CE"}
  */
 function callback(result, components) {
-	application.output('my unique hashId : ' +result);
-	application.output('components used: ' +components);
+	application.output('my unique hashId : ' + result);
+	application.output('component properties: ' + components);
 }
 
 
