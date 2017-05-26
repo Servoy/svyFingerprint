@@ -18,7 +18,7 @@ function callback(result, components) {
 
 
 //Then call the getFingerPrint function.  We can optionally pass in an object with some plugins disabled. 
-var options = {excludeUserAgent: true } 
+var options = {excludeUserAgent: false } 
 plugins.svyfingerprintFingerprint.getFingerPrint(callback,options);
 
 });
