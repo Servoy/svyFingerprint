@@ -22,6 +22,7 @@ var options = {excludeUserAgent: true }
 plugins.svyfingerprintFingerprint.getFingerPrint(callback,options);
 
 });
+```
 
 ### List of fingerprinting sources
 1. UserAgent
