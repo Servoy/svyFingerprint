@@ -1,0 +1,13 @@
+{
+    "name": "svyfingerprint",
+    "displayName": "SvyFingerprint",
+    "packageType": "Web-Service",
+    "icon": "https://raw.githubusercontent.com/Servoy/svyFingerprint/master/icon.png",
+    "description": "A service that can anonymously identify a browser",
+    "wikiUrl": "https://github.com/Servoy/svyFingerprint/wiki",
+    "sourceUrl": "https://github.com/Servoy/svyFingerprint",
+    "releases": [{
+        "version": "1.0.0",
+        "url": "https://github.com/Servoy/svyFingerprint/releases/download/1.0.0/svyfingerprint.zip"
+    }]
+}
