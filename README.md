@@ -2,9 +2,6 @@
 
 Anonymously identify a browser.  This web service uses the fingerprintjs2 library (https://github.com/Valve/fingerprintjs2)
 
-# Demo
-http://valve.github.io/fingerprintjs2/
-
 # Example Usage
 ```js
 
