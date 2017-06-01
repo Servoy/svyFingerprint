@@ -1,6 +1,6 @@
 {
     "name": "svyfingerprint",
-    "displayName": "SvyFingerprint",
+    "displayName": "Browser Fingerprint",
     "packageType": "Web-Service",
     "icon": "https://raw.githubusercontent.com/Servoy/svyFingerprint/master/icon.png",
     "description": "A service that can anonymously identify a browser",
