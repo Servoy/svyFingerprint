@@ -4,7 +4,7 @@ Anonymously identify a browser.  This web service is based on the fingerprintjs2
 Getting started
 -------------
 
-Get the latest version from the [releases](https://github.com/Servoy/svyFingerprint/releases). Download and import the [svyFingerprintExample.servoy](https://github.com/Servoy/svyFingerprint/releases/download/v1.0.0/svyFingerprintExample.servoy) example solution or check out source directly from github.
+Get the latest version from the [releases](https://github.com/Servoy/svyFingerprint/releases). Download and import the [svyFingerprintExample.servoy](https://github.com/Servoy/svyFingerprint/releases/download/1.0.0/svyfingerprint.zip) example solution or check out source directly from github.
 
 Documentation
 -------------
