@@ -3,6 +3,7 @@
     "displayName": "Browser Fingerprint",
     "packageType": "Web-Service",
     "icon": "https://raw.githubusercontent.com/Servoy/svyFingerprint/master/icon.png",
+    "invertIcon": true,
     "description": "A service that can anonymously identify a browser",
     "wikiUrl": "https://github.com/Servoy/svyFingerprint/wiki",
     "sourceUrl": "https://github.com/Servoy/svyFingerprint",
